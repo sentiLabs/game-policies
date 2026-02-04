@@ -1,4 +1,4 @@
-# GroundBreaker – Terms of Service & Privacy Policy
+# Ground Breaker – Terms of Service & Privacy Policy
 
 This page provides the Terms of Service and Privacy Policy for **GroundBreaker**  
 in Korean, English, and Japanese.
