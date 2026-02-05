@@ -68,10 +68,11 @@ in Korean, English, and Japanese.
 
 ---
 
-#### 4. 개인정보 보유 및 이용 기간
+#### 4. 개인정보 보유 및 이용 기간, 삭제
 개인정보는 이용자가 서비스를 이용하는 동안 보관됩니다.  
-이용자가 삭제를 요청할 경우 관련 데이터는 삭제됩니다.
-
+이용자는 앱을 사용하지 않고도 이메일(sentilab@gmail.com)을 통해  
+계정 및 개인정보 삭제를 요청할 수 있습니다.
+삭제 요청 시 관련 데이터는 합리적인 기간 내에 삭제됩니다.
 ---
 
 #### 5. 문의
@@ -99,6 +100,7 @@ The Service provides a mobile game experience.
 #### 3. Data Storage
 - Game data is stored using Supabase services.
 - Data is used only for service operation.
+- Users can request account and personal information deletion by emailing sentilab@gmail.com without using the app. Upon request, relevant data will be deleted within a reasonable period of time.
 
 #### 4. Service Changes
 The Service may be modified or discontinued at any time.
@@ -140,9 +142,11 @@ The email address is not entered directly by the user and may be provided by Goo
 
 ---
 
-#### 4. Data Retention
-Data is retained while the user uses the Service.  
-Users may request deletion at any time.
+#### 4. Data Retention and Deletion
+- Data is retained while the user uses the Service.
+- Users may request account and personal data deletion  
+  by contacting us via email(sentilab@gmail.com) without using the app.
+- Requested data will be deleted within a reasonable timeframe.
 
 ---
 
@@ -213,10 +217,12 @@ Effective date: **2026.01.01**
 
 ---
 
-#### 4. 保管期間
+#### 4. 保管期間および削除
 ユーザーが本サービスを利用している間、保管されます。  
-削除の要請があった場合、速やかに対応합니다.
-
+削除の要請があった場合、速やかに対応.
+ユーザーは、アプリを使用せずに電子メール（sentilab@gmail.com）を介して
+アカウントと個人情報の削除をリクエストできます。
+削除要求時に、関連データは合理的な期間内に削除されます。
 ---
 
 #### 5. お問い合わせ
